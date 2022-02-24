@@ -1,5 +1,0 @@
-[한빛미디어] "이것이 취업을 위한 코딩 테스트다 with 파이썬"
-
-Chapter 4 - 구현 - 상하좌우 
-
-I can't upload the question becasue of copyright :(
