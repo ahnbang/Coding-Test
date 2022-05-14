@@ -1,3 +1,5 @@
 [게임 맵 최단거리][Shortest distance of game map]
 
-# 
+# Map를 graph로 보고 BFS 적용
+# 이동조건 : 현재 위치 기준으로 4방향 탐색후 map범위 over or under 하지 않고, 0이 아니고 1일때만 해당 위치로 이동
+# 고유 history를 사용하지 않고 이동된 위치에 값을 그전 위치의 값+1로 갱신 하면서 방문처리 및 이동거리 계산
