@@ -1,3 +1,5 @@
+https://programmers.co.kr/learn/courses/30/lessons/42576
+    
 def solution(participant, completion):
     
     hash_sum = 0
@@ -13,9 +15,3 @@ def solution(participant, completion):
                     
             
     return answer
-  
-  '''
-  participant = ["mislav", "stanko", "mislav", "ana"]
-  completion = ["stanko", "ana", "mislav"]
-  return = 	"mislav"
-  '''
