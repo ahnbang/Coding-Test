@@ -1,3 +1,4 @@
+# Link : https://programmers.co.kr/learn/courses/30/lessons/92334
 def solution(id_list, report, k):
     report =set(report)
     answer = [0]*len(id_list)
