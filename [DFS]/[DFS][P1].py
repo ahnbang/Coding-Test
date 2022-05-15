@@ -1,3 +1,4 @@
+https://www.acmicpc.net/problem/2667
 def DFS(y,x):
     global groupN
     
