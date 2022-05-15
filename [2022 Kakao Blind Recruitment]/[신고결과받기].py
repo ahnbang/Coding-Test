@@ -1,4 +1,5 @@
 def solution(id_list, report, k):
+    report =set(report)
     answer = [0]*len(id_list)
     count=[0]*len(id_list)
     dic ={}
